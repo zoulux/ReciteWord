@@ -1,0 +1,14 @@
+<resources>
+
+   <!-- 标题栏背景样式 -->
+    <style name="title_background">
+        <item name="android:background">@color/color_titie</item>
+    </style>
+
+     <!-- Application theme. -->
+    <style name="AppTheme" parent="@android:Theme">
+        <item name="android:windowTitleSize">44dp</item>
+        <item name="android:adjustViewBounds">@style/AppTheme</item>
+    </style>
+
+</resources>
