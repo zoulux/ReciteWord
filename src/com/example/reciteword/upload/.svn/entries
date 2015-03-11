@@ -1,0 +1,42 @@
+10
+
+dir
+0
+http://10.11.0.19/svn/CSC4th/ReciteWord/src/com/example/reciteword/upload
+http://10.11.0.19/svn/CSC4th
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3290fcfc-323a-384e-a475-d4b774831a4b
+
+Mp3Audio.java
+file
+
+
+
+add
+
+Upload.java
+file
+
+
+
+add
+

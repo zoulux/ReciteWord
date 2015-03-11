@@ -1,0 +1,74 @@
+10
+
+dir
+6
+http://10.11.0.19/svn/CSC4th/ReciteWord/src/com/example/reciteword/main
+http://10.11.0.19/svn/CSC4th
+
+
+
+2015-03-08T13:20:04.099628Z
+6
+luoyan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3290fcfc-323a-384e-a475-d4b774831a4b
+
+Main.java
+file
+
+
+
+
+2015-03-11T06:09:01.784000Z
+aaa5cdc582fb874c3b5fba6abcb5e173
+2015-03-08T07:16:04.309464Z
+4
+luoyan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6619
+
+about
+dir
+
+setting
+dir
+
+theme
+dir
+
+word
+dir
+
